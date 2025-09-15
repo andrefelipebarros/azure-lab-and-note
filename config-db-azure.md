@@ -35,29 +35,29 @@ Aqui serão inseridas as suas capturas de tela para ilustrar cada etapa do proce
 
 A primeira etapa envolveu o login no portal do Azure e a criação de um novo recurso do tipo "Banco de Dados SQL".
 
-*(Me envie a print desta etapa e eu adicionarei aqui)*
-`![Descrição da Imagem 1](images/01-criacao-recurso.png)`
+*(Print desta etapa)*
+![Descrição da Imagem 1](images/01-criacao-recurso.png)
 
 ### **2. Configuração do Banco de Dados SQL**
 
 Nesta fase, foram definidas as configurações essenciais do banco, como o grupo de recursos, o nome do servidor, a localização, o método de autenticação e o plano de serviço (pricing tier).
 
-*(Me envie a print desta etapa e eu adicionarei aqui)*
-`![Descrição da Imagem 2](images/02-configuracao-banco.png)`
+*(Print desta etapa)*
+![Descrição da Imagem 2](images/02-configuracao-banco.png)
 
 ### **3. Definição das Regras de Firewall**
 
 Para permitir o acesso externo ao banco de dados, foi necessário configurar as regras de firewall no servidor SQL, liberando o endereço IP da máquina local.
 
-*(Me envie a print desta etapa e eu adicionarei aqui)*
-`![Descrição da Imagem 3](images/03-regras-firewall.png)`
+*(Print desta etapa)*
+![Descrição da Imagem 3](images/03-regras-firewall.png)
 
 ### **4. Conexão e Validação**
 
 Com o banco de dados provisionado e o firewall configurado, a etapa final foi conectar a ele utilizando uma ferramenta de gerenciamento (como o Azure Data Studio ou SSMS) para validar a comunicação.
 
-*(Me envie a print desta etapa e eu adicionarei aqui)*
-`![Descrição da Imagem 4](images/04-conexao-cliente.png)`
+*(Print desta etapa)*
+![Descrição da Imagem 4](images/04-conexao-cliente.png)
 
 ## **Dicas e Pontos de Atenção**
 
